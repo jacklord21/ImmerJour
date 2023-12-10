@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 2694677700338147421}
   - component: {fileID: 5168454477282605190}
   m_Layer: 5
-  m_Name: ExpItem 1
+  m_Name: ExpItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
