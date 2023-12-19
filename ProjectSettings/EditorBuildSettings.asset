@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HomeScene.unity
     guid: 8d871b99798bfce4ca43b746e0f6ed9b
+  - enabled: 1
+    path: Assets/Scenes/PhotocameraScene.unity
+    guid: 629770e38eadf0d40809583ccacbff64
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
