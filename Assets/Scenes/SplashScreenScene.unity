@@ -1023,7 +1023,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: <font-weight="600">The only app that brings you into the world of Immersive
-    Journalism</font-weight>
+    Journalism.</font-weight>
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2409c01b29a912a43aed0fffaceaa357, type: 2}
   m_sharedMaterial: {fileID: -8931056838208515458, guid: 2409c01b29a912a43aed0fffaceaa357,

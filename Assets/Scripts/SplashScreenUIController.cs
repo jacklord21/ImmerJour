@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FirstSceneUIController : MonoBehaviour
+public class SplashScreenUIController : MonoBehaviour
 {
     [SerializeField]
     public String animationName;
