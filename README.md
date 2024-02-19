@@ -1,7 +1,7 @@
 # ImmerJour
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![latest packaged version(s)](https://repology.org/badge/latest-versions/unity-docs.svg)](https://repology.org/project/unity-docs/versions)
+[![latest packaged](https://repology.org/badge/latest-versions/unity-docs.svg)](https://repology.org/project/unity-docs/versions)
 
 This repository is intended to host the ImmerJour game code, for the Technologies for Extended Reality (TER) course project at UNICAM.
 
